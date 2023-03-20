@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2011-10-05T23:20:05.389Z"
+    },
+    {
+      "id": 2,
+      "description": "Rodízio Sushi",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 300,
+      "createdAt": "2011-10-08T23:20:05.389Z"
+    },
+    {
+      "id": 3,
+      "description": "Compras do mês",
+      "price": 400,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2022-11-10T23:20:05.389Z"
+    },
+    {
+      "description": "Pastel com Caldo de Cana",
+      "price": 14,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2022-11-10T23:39:23.599Z",
+      "id": 4
+    }
+  ]
+}
